@@ -1,0 +1,1 @@
+# coteditor-nord-theme
